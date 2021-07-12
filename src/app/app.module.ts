@@ -8,7 +8,7 @@ import { AppComponent } from './app.component';
 import { ChatMainComponent } from './chat-main/chat-main.component';
 
 const config: SocketIoConfig = {
-  url: 'http://localhost:3000',
+  url: 'https://chat-ing-backend.herokuapp.com/',
   options: {}
 };
 
